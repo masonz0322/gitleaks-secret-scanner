@@ -14,3 +14,8 @@ id = "classroom-demo-code"
 description = "Classroom demo code"
 path = '''(^|/)config\.py$'''
 regex = '''\bLAB-DEMO-[0-9]{6}\b'''
+[[rules]]
+id = "nova-demo-code"
+description = "Fictional Nova service demo code"
+path = '''(^|/)config\.py$'''
+regex = '''\bNOVA-[0-9]{4}\b'''
