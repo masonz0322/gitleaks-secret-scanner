@@ -1,10 +1,3 @@
 import os
 
 AWS_ACCESS_KEY_ID = os.environ.get("AWS_ACCESS_KEY_ID")
-
-# NOVA-1234
-# NOVA-5678
-# NOVA-9012
-# LUNA-1234
-# NOVA-123
-# NOVA-12345
